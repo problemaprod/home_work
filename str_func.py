@@ -1,5 +1,5 @@
 def upper_str(value):
     """
-    делает все буквы большими
+    ДЕЛАЕТ ВСЕ БУКВЫ БОЛЬШИМИ
     """
     return value.upper()
